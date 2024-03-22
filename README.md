@@ -5,5 +5,6 @@
 
 Here are some ideas to get you started:
 
-- Sou estudando do Mediotec Senac de Recife
+- Sou estudante do Mediotec Senac de Recife
+- Fazendo o curso de Técnico de T.I
 - Tenho 15 anos
