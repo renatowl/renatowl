@@ -6,4 +6,5 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=RENATOWL&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudante do Mediotec Senac<br/> Eu sou desenvolvedor BackEnd</p>
+- <p>Estudante do Mediotec Senac<br/>
+- Eu sou desenvolvedor BackEnd</p>
